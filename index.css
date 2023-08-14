@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: #1F2837;
+    padding: 2rem;
+}
+
+h1{
+    color: white;
+    line-height: 1rem;
+}
+
+#green-text{
+    color: #4ADF86;
+    margin-bottom: .8rem
+}
+
+p{
+    color: lightgray;
+    margin-bottom: 2rem;
+}
+
+button {
+    background-color: #0FBA81;
+    border: none;
+    border-radius: 5px;
+    padding: .5rem .9rem;
+    color: white;
+}
+
+hr{
+    margin: 2rem 0rem;
+}
+
+div#fields{
+    display: flex;
+    justify-content: space-between;
+}
+
+#fields>p {
+   color: #4ADF86;
+   background-color: #273549;
+   padding: .5rem .9rem;
+   border-radius: 5px;
+   margin: 0
+    
+}
