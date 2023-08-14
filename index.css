@@ -34,7 +34,6 @@ hr{
 
 div#fields{
     display: flex;
-    justify-content: space-between;
 }
 
 #fields>p {
@@ -42,6 +41,5 @@ div#fields{
    background-color: #273549;
    padding: .5rem .9rem;
    border-radius: 5px;
-   margin: 0
-    
+   margin: 0 .7rem 0;
 }
